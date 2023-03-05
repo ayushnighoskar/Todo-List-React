@@ -16,6 +16,10 @@ The Todo List App is a web-based application that allows users to keep track of 
 - User-friendly interface to add,edit and delete tasks.
 - Utilizes local storage to store and retrieve task data.
 - Styled using CSS.
+- Safe: It can be used without causing harm.
+- Testable: It can be tested at the code level.
+- Maintainable: It can be maintained, even as your codebase grows.
+- Portable: It works the same in every environment (operating system)
 
 ## Usage-
 ```
