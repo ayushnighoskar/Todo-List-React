@@ -19,8 +19,8 @@ The Todo List App is a web-based application that allows users to keep track of 
 
 ## Usage-
 
-Install dependencies: npm install
-Start the application: npm start
+- Install dependencies: npm install
+- Start the application: npm start
 
 ## Acknowledgements-
 
