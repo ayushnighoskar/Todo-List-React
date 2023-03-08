@@ -1,6 +1,6 @@
 # Todo-List-React
 
-The Todo List App is a web-based application that allows users to keep track of their daily tasks and manage them in an organized manner. This app is built using React JS, a popular JavaScript library for building user interfaces. The app provides users with an easy-to-use interface that enables users to add new tasks,update existing ones and delete tasks.
+The Todo List App is a web-based application that allows users to keep track of their daily tasks and manage them in an organized manner. This app is built using React JS, a popular JavaScript library for building user interfaces. The app provides users with an easy-to-use interface that enables users to add new tasks,update existing ones and delete tasks..
 
 ## Tech-Stack-
 
