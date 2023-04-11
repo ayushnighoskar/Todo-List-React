@@ -11,7 +11,6 @@ The Todo List App is a web-based application that allows users to keep track of 
 <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
 
-
 ## Features-
 
 - User-friendly interface to add,edit and delete tasks..
